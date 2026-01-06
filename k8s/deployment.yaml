@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: dockerhub-username/myapp:latest
+        image: aryan0763/myapp:64887a963e3b1560ce8783b70700c4b79864a804
         ports:
         - containerPort: 3000
